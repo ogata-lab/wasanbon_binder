@@ -2,3 +2,12 @@
 #  description : 'Console Output RT-component with Long type DataInPort.'
 #  type : git
 #  url : 'https://github.com/sugarsweetrobotics/ConsoleOutput_cpp.git'
+
+NAO_python :
+  description : 'NAO RT-component'
+  type : git
+  url : 'https://github.com/ogata-lab/NAO.git'
+NAO_test :
+  description : 'NAO Test Template'
+  type : git
+  url : 'https://github.com/ogata-lab/NAOTest.git'

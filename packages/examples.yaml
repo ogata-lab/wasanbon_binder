@@ -2,5 +2,4 @@
 #  description : 'ConsoleIn and ConsoleOut'
 #  type : git
 #  url : 'https://github.com/sugarsweetrobotics/tutorial01.git'
-
-
+#  platform : [osx, ubuntu, win]

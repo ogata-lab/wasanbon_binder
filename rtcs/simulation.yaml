@@ -1,0 +1,5 @@
+SimulationManager :
+  description : 'Simulation Manager RT-Component / Tool'
+  type : git
+  url : 'https://github.com/ogata-lab/SimulationManager.git'
+  platform : [osx, ubuntu, win]

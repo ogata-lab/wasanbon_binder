@@ -3,3 +3,9 @@ SimulationManager :
   type : git
   url : 'https://github.com/ogata-lab/SimulationManager.git'
   platform : [osx, ubuntu, win]
+
+BabblingGenerator : 
+  description : 'Babbling Motion Generator'
+  type : git
+  url : 'https://github.com/ogata-lab/BabblingGenerator.git'
+  platform : [osx, ubuntu, win]

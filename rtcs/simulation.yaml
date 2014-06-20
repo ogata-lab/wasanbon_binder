@@ -4,8 +4,15 @@ SimulationManager :
   url : 'https://github.com/ogata-lab/SimulationManager.git'
   platform : [osx, ubuntu, win]
 
+SimulationBuilder : 
+  description : 'Simulation Builder for RT-component / Tool'
+  type : git
+  url : 'https://github.com/ogata-lab/SimulationBuilder.git'
+  platform : [osx, ubuntu, win]
+
 BabblingGenerator : 
   description : 'Babbling Motion Generator'
   type : git
   url : 'https://github.com/ogata-lab/BabblingGenerator.git'
   platform : [osx, ubuntu, win]
+

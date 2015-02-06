@@ -2,7 +2,7 @@ NAO_python :
   description : 'NAO RT-component'
   type : git
   url : 'https://github.com/ogata-lab/NAO.git'
-  platform : [osx, ubuntu, win]
+  platform : [osx, ubuntu]
 
 NAO_test :
   description : 'NAO Test Template'

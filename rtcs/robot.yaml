@@ -27,3 +27,10 @@ ActroidDiagnostic:
   type : git
   url : 'https://github.com/ogata-lab/ActroidDiagnostic.git'
   platform : [win]
+
+
+IMURazor9DOF:
+  description : 'IMURazor9DOF RTC.'
+  type : git
+  url : 'https://github.com/ogata-lab/IMURazor9DOF.git'
+  platform : [win, osx, ubuntu]

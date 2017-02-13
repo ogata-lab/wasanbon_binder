@@ -15,3 +15,15 @@ ObjectDetector:
   type : git
   url : "https://github.com/rokihi/ObjectDetector"
   platform : [ubuntu]
+
+ManipulationPlanner_OMPL:
+  description : 'Manipulation Planner using OMPL'
+  type : git
+  url : "https://github.com/ogata-lab/ManipulationPlanner_OMPL.git"
+  platform : [ubuntu]
+
+ObjectHandleStrategyRTC:
+  description : 'Handling Posture generator from Object orientation'
+  type : git
+  url : 'https://github.com/ogata-lab/ObjectHandleStrategyRTC.git"
+  platform : [ubuntu]

@@ -1,0 +1,17 @@
+PickingTaskManager:
+  description : ''
+  type : git
+  url : "https://github.com/ogata-lab/PickingTaskManager"
+  platform : [ubuntu]
+
+ManipulatorMotionGenerator:
+  description : ''
+  type : git
+  url : "https://github.com/ogata-lab/ManipulatorMotionGenerator"
+  platform : [ubuntu]
+
+ObjectDetector:
+  description : ''
+  type : git
+  url : "https://github.com/rokihi/ObjectDetector"
+  platform : [ubuntu]

@@ -25,5 +25,5 @@ ManipulationPlanner_OMPL:
 ObjectHandleStrategyRTC:
   description : 'Handling Posture generator from Object orientation'
   type : git
-  url : 'https://github.com/ogata-lab/ObjectHandleStrategyRTC.git"
+  url : 'https://github.com/ogata-lab/ObjectHandleStrategyRTC.git'
   platform : [ubuntu]

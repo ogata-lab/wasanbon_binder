@@ -1,17 +1,17 @@
 PickingTaskManager:
-  description : ''
+  description : 'Manipulation Planner Framework Manager'
   type : git
   url : "https://github.com/ogata-lab/PickingTaskManager"
   platform : [ubuntu]
 
 ManipulatorMotionGenerator:
-  description : ''
+  description : 'Motion Generator for Mainpuation'
   type : git
   url : "https://github.com/ogata-lab/ManipulatorMotionGenerator"
   platform : [ubuntu]
 
 ObjectDetector:
-  description : ''
+  description : 'Oboject Detector using RGB-D Sensor. Algorithm with Tensorflow-YOLO'
   type : git
   url : "https://github.com/rokihi/ObjectDetector"
   platform : [ubuntu]

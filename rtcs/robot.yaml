@@ -34,3 +34,9 @@ IMURazor9DOF:
   type : git
   url : 'https://github.com/ogata-lab/IMURazor9DOF.git'
   platform : [win, osx, ubuntu]
+
+MikataArm:
+  description : 'Arm Robot by ROBOTIS'
+  type : git
+  url : 'https://github.com/ogata-lab/MikataArm.git'
+  platform : [win, osx, ubuntu]

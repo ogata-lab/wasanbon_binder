@@ -38,5 +38,5 @@ IMURazor9DOF:
 MikataArm:
   description : 'Arm Robot by ROBOTIS'
   type : git
-  url : 'https://github.com/ogata-lab/MikataArm.git'
+  url : 'https://github.com/ogata-lab/MikataArmRTC.git'
   platform : [win, osx, ubuntu]
